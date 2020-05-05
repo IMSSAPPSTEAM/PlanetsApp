@@ -2,6 +2,12 @@
 
 Planets in Solar system
 
+## Screenshots
+
+<a href="https://raw.githubusercontent.com/ananddamodaran/planets/master/Home.png"><img src="https://raw.githubusercontent.com/ananddamodaran/planets/master/Home.png" height="240" width="120" ></a>
+<a href="https://raw.githubusercontent.com/ananddamodaran/planets/master/Detail.png"><img src="https://raw.githubusercontent.com/ananddamodaran/planets/master/Detail.png" height="240" width="120" ></a>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
